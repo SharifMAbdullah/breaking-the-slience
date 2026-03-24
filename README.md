@@ -10,9 +10,10 @@ This repository contains code and experiments from the paper **"Breaking the Sil
 It wokrs as a bridge between sign language and written text. For example:
 
 The Bangla sentence: `আমি বৃষ্টিতে ছাতা নিয়ে বাইরে যাই`    
-The gloss would be: `আমি বৃষ্টি ছাতা নিয়ে আসা বাইরে যাওয়া`
-<img width="1209" height="506" alt="t2g" src="https://github.com/user-attachments/assets/2719ca55-66d0-4f4c-87a7-b5f98b0c43ce" />
+The gloss would be: `আমি বৃষ্টি ছাতা নিয়ে আসা বাইরে যাওয়া`  
 
+  <img width="1209" height="506" alt="t2g" src="https://github.com/user-attachments/assets/2719ca55-66d0-4f4c-87a7-b5f98b0c43ce" /> 
+  <p align="center">Figure 1: Overview of the Bangla Text-to-Gloss (T2G) Framework</p>
 
 This project:
 1. **Generates synthetic gloss** (artificial gloss data) using NVIDIA NeMo Data Designer
